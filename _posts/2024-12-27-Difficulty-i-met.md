@@ -3,6 +3,7 @@ layout: post
 title: 【合集】blog 问题 & 方法
 subtitle: “九九八十一难”
 author: Rainbow-Prince
+mathjax: true
 header-mask: 0.2
 header-img: img/alex-dukhanov-ZxZQk7777R4-unsplash.jpg
 tags:
@@ -59,5 +60,43 @@ find: !\[\]\(img/(.+?)\)
 replace: ![](/img/$1)
 ```
 
-一键替换之后，原本只能在Obsidian里面预览的照片现在能在浏览器预览了
+一键替换之后，原本只能在Obsidian里面预览的照片，现在能在浏览器预览啦~
 
+
+### 如何在个人博客渲染Latex代码
+
+Hux的博客模板中，已经包含了相关的文件，
+![](img/Pasted%20image%2020241229140955.png)
+
+只需要在配置文章开头的yaml配置中设置，即可渲染latex代码，如下
+```yml
+mathjax: true
+```
+
+
+```
+$inline~math$
+```
+$inline~math$
+
+```
+$
+  \begin{align}
+    mathblock
+  \end{align}
+$
+
+\begin{align}
+	mathblock
+\end{align}
+
+```
+$
+  \begin{align}
+    mathblock
+  \end{align}
+$
+
+  \begin{align}
+    mathblock
+  \end{align}

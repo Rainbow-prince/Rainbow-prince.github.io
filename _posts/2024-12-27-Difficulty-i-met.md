@@ -43,15 +43,15 @@ tags:
 
 本人用的是 `obsidian` 笔记软件作为我的文章的编辑器，其默认的图片路径为`！[[路径]]`
 
-![](/img/Pasted%20image%2020241227112918.png)
+![](img/in-post/Difficulty-i-met/Pasted%20image%2020241227112918.png)
 
 关闭此选项，就可以使用标准的markdown语法的链接格式 `![]()` 。可能你会发现在实时预览的时候**还是显示不了图片**。这个时候可能是**路径问题**。
 
-![](/img/Pasted%20image%2020241227114707.png)
+![](img/in-post/Difficulty-i-met/Pasted%20image%2020241227114707.png)
 
 比如我上面这种照片的路径为 `![](/img/Pasted%20image\%2020241227112918.png)`，但其实应该改为`![](/img/Pasted%20image%2020241227112918.png)`，也就是在路径的最前面加一个斜杠 `/`。因为无法直接在obsidian设置修改成这种格式，需要借助obsidian的插件[Regex Find and Replace](https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E7%A4%BE%E5%8C%BA%E6%8F%92%E4%BB%B6/readme/obsidian-regex-replace_readme/)（插件安装教程在网上有不少），根据正则表达式查找并更改。
 
-![](/img/Pasted%20image%2020241227113739.png)
+![](img/in-post/Difficulty-i-met/Pasted%20image%2020241227113739.png)
 
 
 **仅供参考：**
@@ -66,7 +66,7 @@ replace: ![](/img/$1)
 ### 如何在个人博客渲染Latex代码
 
 Hux的博客模板中，已经包含了相关的文件，
-![](img/Pasted%20image%2020241229140955.png)
+![](img/in-post/Difficulty-i-met/Pasted%20image%2020241229140955.png)
 
 只需要在配置文章开头的yaml配置中设置，即可渲染latex代码，如下
 ```yml

@@ -4,7 +4,7 @@ title: Regularization and normalization
 subtitle: “reading notes”
 author: Rainbow-Prince
 header-mask: 0.5
-header-img: img/Preface__Computer Vision： Algorithms and Applications.excalidraw
+header-img: img/Preface__Computer Vision： Algorithms and Applications.png
 tags:
   - ML/DL/Regularization_and_normalization
 ---

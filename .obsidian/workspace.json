@@ -11,10 +11,26 @@
             "id": "6a642c52ae82df48",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-03-22-DL-Regularization-and-normalization.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-03-22-DL-Regularization-and-normalization"
+            }
+          },
+          {
+            "id": "f9c44a87bc34b557",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "img/Preface__Computer Vision： Algorithms and Applications.excalidraw.png"
+              },
+              "icon": "lucide-image",
+              "title": "Preface__Computer Vision： Algorithms and Applications.excalidraw"
             }
           }
         ]
@@ -163,6 +179,13 @@
   },
   "active": "6a642c52ae82df48",
   "lastOpenFiles": [
+    "img/in-post/Pasted image 20250322213652.png",
+    "img/in-post/Pasted image 20250322213625.png",
+    "_posts/2025-03-22-DL-Regularization-and-normalization.md",
+    "img/Pasted image 20250322213507.png",
+    "img/Pasted image 20250322213504.png",
+    "_posts/2025-03-22-【reading notes】Computer Vision： Algorithms and Applications.md",
+    "img/Preface__Computer Vision： Algorithms and Applications.excalidraw.png",
     "README.md",
     "pwa/icons/128.png",
     "pwa/icons/512.png",

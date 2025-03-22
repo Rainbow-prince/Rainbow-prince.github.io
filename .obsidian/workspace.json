@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2ed025e2efcb0ef5",
+        "id": "6dd25e12ad5c46ed",
         "type": "tabs",
         "children": [
           {
-            "id": "1afe669fdbe71f11",
+            "id": "52f9573c863700b5",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "pwa/icons/128.png"
-              },
-              "icon": "lucide-image",
-              "title": "128"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -92,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pwa/icons/128.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 128"
+              "title": "Backlinks"
             }
           },
           {
@@ -111,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pwa/icons/128.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 128"
+              "title": "Outgoing Links"
             }
           },
           {
@@ -140,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pwa/icons/128.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 128"
+              "title": "Outline"
             }
           }
         ]
@@ -166,10 +161,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1afe669fdbe71f11",
+  "active": "52f9573c863700b5",
   "lastOpenFiles": [
-    "pwa/icons/512.png",
     "pwa/icons/128.png",
+    "pwa/icons/512.png",
     "README.md",
     "_posts/2024-12-29-What's-iframe.md",
     "_posts/2024-12-28-Obsidian-Plugin.md",

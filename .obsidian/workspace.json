@@ -13,24 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-03-22-DL-Regularization-and-normalization.md",
+                "file": "_posts/2025-03-22-3.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-03-22-DL-Regularization-and-normalization"
+              "title": "2025-03-22-3"
             }
           },
           {
             "id": "f9c44a87bc34b557",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "img/Preface__Computer Vision： Algorithms and Applications.excalidraw.png"
-              },
-              "icon": "lucide-image",
-              "title": "Preface__Computer Vision： Algorithms and Applications.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -179,10 +177,11 @@
   },
   "active": "6a642c52ae82df48",
   "lastOpenFiles": [
+    "_posts/2025-03-22-3.md",
+    "_posts/2025-03-22-DL-Regularization-and-normalization.md",
     "_posts/2025-03-22-【reading notes】Computer Vision： Algorithms and Applications.md",
     "img/Preface__Computer Vision： Algorithms and Applications.png",
     "_posts/2024-12-29-What's-iframe.md",
-    "_posts/2025-03-22-DL-Regularization-and-normalization.md",
     "img/in-post/Pasted image 20250322213652.png",
     "img/in-post/Pasted image 20250322213625.png",
     "img/Pasted image 20250322213507.png",

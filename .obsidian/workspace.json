@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6dd25e12ad5c46ed",
+        "id": "af41e1ca23fe3fdb",
         "type": "tabs",
         "children": [
           {
-            "id": "52f9573c863700b5",
+            "id": "6a642c52ae82df48",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,11 +161,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52f9573c863700b5",
+  "active": "6a642c52ae82df48",
   "lastOpenFiles": [
+    "README.md",
     "pwa/icons/128.png",
     "pwa/icons/512.png",
-    "README.md",
     "_posts/2024-12-29-What's-iframe.md",
     "_posts/2024-12-28-Obsidian-Plugin.md",
     "_posts/2024-12-27-Difficulty-i-met.md"

@@ -7,6 +7,7 @@ header-mask: 0.5
 header-img: 
 tags:
   - 小故事
+  - 随笔
 ---
 
 > 南阳刘子骥，高尚士也。

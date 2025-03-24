@@ -4,7 +4,7 @@ title: 【小故事】桃花源记-刘子骥
 subtitle: “且作奇闻”
 author: Rainbow-Prince
 header-mask: 0.5
-header-img: 
+header-img: img/in-post/Pasted%20image%2020250324151057.png
 tags:
   - 小故事
   - 随笔
